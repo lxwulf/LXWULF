@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**lxwulf/lxwulf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![lxwulf's github stats](https://github-readme-stats.vercel.app/api?username=lxwulf&show_icons=true&theme=synthwave)](https://github.com/lxwulf/)
 
-Here are some ideas to get you started:
+Hello There 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Officer K. I try to learn something new from the FOSS community every day. For me it is very important to be independent, especially from big companies. I've been working with Linux on and off for a few years now, have learned a lot of things and will definitely learn more.
+
+My main focus at the moment is:
+
+- Linux General
+- Automations
+- Virtualizations
+
+Feel free to show me new things!
+
+LxWulf 🐧🐺
