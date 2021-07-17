@@ -13,6 +13,10 @@ My main focus at the moment is:
 - Automations
 - Virtualizations
 
+Besides that I'm experimenting with various other things like Android rooting, raspberry pi projects, hacking - yes also security related but also in terms of using things they weren't made for - and also programming.
+
+At the moment I am learning Python.
+
 Feel free to show me new software, hardware stuff or let us together work on a new project!
 
 LxWulf 🐧🐺
