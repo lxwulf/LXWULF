@@ -10,12 +10,11 @@ I've been working with Linux on and off for a few years now, have learned a lot 
 My main focus at the moment is:
 
 - Linux in General
-- Automations
-- Virtualizations
+- Automation with Ansible
+- Virtualization QEMU/KVM
+- Testing different Open Source Software
 
-Besides that I'm experimenting with various other things like Android rooting, raspberry pi projects, hacking - yes also security related but also in terms of using things they weren't made for - and also programming.
-
-At the moment I am learning Python.
+Besides that I'm experimenting with various other things like Android rooting, raspberry pi projects, hacking - yes also security related but also in terms of using things they weren't made for - and also programming. At the moment I am learning Python.
 
 Feel free to show me new software, hardware stuff or let us together work on a new project!
 
