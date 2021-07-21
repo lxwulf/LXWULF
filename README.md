@@ -11,7 +11,7 @@ My main focus at the moment is:
 
 - Linux in General
 - Automation with Ansible
-- Virtualization QEMU/KVM
+- Virtualization with QEMU/KVM
 - Testing different Open Source Software
 
 Besides that I'm experimenting with various other things like Android rooting, raspberry pi projects, hacking - yes also security related but also in terms of using things they weren't made for - and also programming. At the moment I am learning Python.
